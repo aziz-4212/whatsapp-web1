@@ -1,6 +1,6 @@
 .wwebjs_auth/
 .wwebjs_cache/
 node_modules/
-qrcode/
-qrcode-noreg/
-gambar-kirim/
+qrcode/*
+qrcode-noreg/*
+gambar-kirim/*
